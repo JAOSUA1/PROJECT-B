@@ -1,1 +1,1 @@
-# PROJECT-B
+Project B
